@@ -16,3 +16,4 @@ CHAT APPLICATION
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/1dac9694-7462-4ba1-b328-7be7da8b0b5a)
